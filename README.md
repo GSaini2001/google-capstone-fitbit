@@ -26,4 +26,4 @@ The dataset used in this analysis was provided by Fitbit and made available on K
 - Explored correlations between **steps taken** and **calories burned**.
 - Analyzed usage patterns across different days of the week.
 - Calculated percentage breakdown of active minutes (very/fairly/lightly/sedentary).
-- 
+ 

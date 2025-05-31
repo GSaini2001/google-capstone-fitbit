@@ -31,7 +31,7 @@ The dataset used in this analysis was provided by Fitbit and made available on K
 
 Here are some key visualizations from the analysis:
 
-![% Activity Level in Minutes](images/%-activity-level)  
+![% Activity Level in Minutes](images/%-activity-level.png)  
 *Percentage of total minutes spent in different activity levels (very active, fairly active, lightly active, sedentary).*
 
 ![Average Number of Steps Per Day](images/average-number-of-steps.png)  
@@ -40,7 +40,7 @@ Here are some key visualizations from the analysis:
 ![Correlation: Activity Minutes vs Calories](images/correlation-calories-vs-steps.png)  
 *Relationship between activity minutes and calories burned.*
 
-![Correlation: Activity Level vs Steps](images/correlation-betaween-activitylevel-and-minutes)  
+![Correlation: Activity Level vs Steps](images/correlation-betaween-activitylevel-and-minutes.png)  
 *Steps taken categorized by activity level.*
 
 ---

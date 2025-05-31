@@ -26,4 +26,34 @@ The dataset used in this analysis was provided by Fitbit and made available on K
 - Explored correlations between **steps taken** and **calories burned**.
 - Analyzed usage patterns across different days of the week.
 - Calculated percentage breakdown of active minutes (very/fairly/lightly/sedentary).
+
+  ## 📈 Visualizations:
+
+Here are some key visualizations from the analysis:
+
+![% Activity Level in Minutes](images/%-activity-level.png)  
+*Percentage of total minutes spent in different activity levels (very active, fairly active, lightly active, sedentary).*
+
+![Average Number of Steps Per Day](images/average-number-of-steps.png)  
+*Average number of steps taken each day of the week.*
+
+![Correlation: Activity Minutes vs Calories](images/correlation-calories-vs-steps.png)  
+*Relationship between activity minutes and calories burned.*
+
+![Correlation: Activity Level vs Steps](images/correlation-between-actitvitylevel-and-minutes.png)  
+*Steps taken categorized by activity level.*
+
+---
+
+## 💡 Business Recommendations:
+
+Based on the insights from this data, the following strategies are recommended:
+
+- Provide tailored activity goals based on individual usage patterns.
+- Introduce gamified challenges for users who are in the sedentary category to boost activity levels.
+- Promote healthy weekday habits by encouraging users to maintain consistency across the week.
+- Offer real-time feedback and motivational nudges based on calorie burn and step targets.
+
+
+
  
